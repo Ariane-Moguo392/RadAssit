@@ -1,4 +1,4 @@
-RadAssist — Assistant radiologue virtuel
+RadAssist : Assistant radiologue virtuel
 
  Présentation et instructions de Lancement
 
